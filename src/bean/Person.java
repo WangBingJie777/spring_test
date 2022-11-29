@@ -17,5 +17,6 @@ public class Person {
     }
     public void function(){
         System.out.println("hello git");
+        System.out.println("kk");
     }
 }
