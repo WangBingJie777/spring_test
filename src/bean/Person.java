@@ -17,6 +17,6 @@ public class Person {
     }
     public void function(){
         System.out.println("hello git");
-        System.out.println("尚硅谷，让天下没有难学的技术");
+        System.out.println("尚硅谷，让天下没有难学的技术fffff");
     }
 }
