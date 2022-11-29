@@ -15,4 +15,7 @@ public class Person {
                 ", age='" + age + '\'' +
                 '}';
     }
+    public void function(){
+        System.out.println("hello git");
+    }
 }
