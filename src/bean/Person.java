@@ -19,4 +19,7 @@ public class Person {
         System.out.println("hello git");
         System.out.println("kk");
     }
+    public void masterPer(){
+        System.out.println("lllll");
+    }
 }
